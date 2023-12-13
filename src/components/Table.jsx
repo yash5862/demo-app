@@ -446,7 +446,7 @@ const Table = () => {
                       서류첨부
                     </div>
                   </div>
-                  <div className="prefix_field border-right border-bottom flex gap-20">
+                  <div className="prefix_field border-right border-bottom flex gap-20 flex_fild">
                     <span className="tag">파일 선택</span>
                     <div className="flex gap-12">
                       <div className="selected_tag">
@@ -609,7 +609,7 @@ const Table = () => {
                   </div>
                 </div>
               </div>
-              <div className="mt-20 flex gap-5">
+              <div className="mt-20 flex gap-5 flex-input">
                 <div className="flex w-100">
                   <div className="block">
                     <div className="prefix border-left border-top border-bottom">
