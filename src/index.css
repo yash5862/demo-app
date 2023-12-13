@@ -1,0 +1,59 @@
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0px;
+}
+
+@font-face {
+  font-family: "PretendardBlack";
+  src: local("PretendardBlack"),
+    url("./assets/fonts/Pretendard-Black.otf") format("truetype");
+}
+@font-face {
+  font-family: "PretendardBold";
+  src: local("PretendardBold"),
+    url("./assets/fonts/Pretendard-Bold.otf") format("truetype");
+}
+@font-face {
+  font-family: "PretendardThin";
+  src: local("PretendardThin"),
+    url("./assets/fonts/Pretendard-Thin.otf") format("truetype");
+}
+@font-face {
+  font-family: "PretendardExtraBold";
+  src: local("PretendardExtraBold"),
+    url("./assets/fonts/Pretendard-ExtraBold.otf") format("truetype");
+}
+@font-face {
+  font-family: "PretendardExtraLight";
+  src: local("PretendardExtraLight"),
+    url("./assets/fonts/Pretendard-ExtraLight.otf") format("truetype");
+}
+@font-face {
+  font-family: "PretendardLight";
+  src: local("PretendardLight"),
+    url("./assets/fonts/Pretendard-Light.otf") format("truetype");
+}
+@font-face {
+  font-family: "PretendardMedium";
+  src: local("PretendardMedium"),
+    url("./assets/fonts/Pretendard-Medium.otf") format("truetype");
+}
+@font-face {
+  font-family: "PretendardRegular";
+  src: local("PretendardRegular"),
+    url("./assets/fonts/Pretendard-Regular.otf") format("truetype");
+}
+@font-face {
+  font-family: "PretendardSemiBold";
+  src: local("PretendardSemiBold"),
+    url("./assets/fonts/Pretendard-SemiBold.otf") format("truetype");
+}
